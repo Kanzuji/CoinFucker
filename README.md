@@ -17,8 +17,7 @@
 ### Installation
 * Python 3.x is required
 * Most Important:
-Open CMD or run "pip_install.cmd" as Administrator
-type: pip install -r install.txt
+Open CMD and type: pip install -r install.txt or run "pip_install.cmd" as Administrator
 
 ---------------------------------------
 
