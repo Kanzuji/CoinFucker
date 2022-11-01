@@ -1,0 +1,1 @@
+# you can use localhost if you want to make it proxyless, they manual ban after like 100k tho.

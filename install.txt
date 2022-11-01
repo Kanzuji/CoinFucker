@@ -1,0 +1,4 @@
+requests
+colorama
+cfscraper
+clistyling
