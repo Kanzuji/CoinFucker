@@ -2,8 +2,8 @@
 <br/>
 <div align="center">
   <h2 align="center">CoinFucker - CoinTracker Checker with 2FA Bypass</h3>
-        <img src="https://imgur.com/a/j8hEmSe" alt="Preview" width="256" height="256">
-        <img src="https://imgur.com/a/j8hEmSe" alt="Preview" width="256" height="256">
+        <img src="https://i.imgur.com/ZcEOKms.png" alt="Preview" width="256" height="256">
+        <img src="https://i.imgur.com/24AXXTT.png" alt="Preview" width="256" height="256">
   </a>
   
 
